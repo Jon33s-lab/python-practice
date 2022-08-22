@@ -1,0 +1,2 @@
+#string
+print("hello, world")
