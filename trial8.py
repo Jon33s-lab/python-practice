@@ -1,0 +1,1 @@
+print(len("Hello/nMy name is Trevour. I am practising using the function call len that prints the number of words "))
